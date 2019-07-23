@@ -18,5 +18,5 @@ function destructivelyRemoveFirstDriver(){
 }
 
 function appendDriver(){
-  const allDrivers = [...drivers, ]
+  const allDrivers = [...drivers, 'pop']
 }
